@@ -28,7 +28,7 @@ Overlap different stages of development, rather than performing one after the ot
 
 # Resources
 
-> - Posters for Explanation about Agile methodologies [https://dandypeople.com/blog/category/poster/]
+> - [Posters for Explanation about Agile methodologies](https://dandypeople.com/blog/category/poster/)
 
 
 ## :sagittarius: Author
