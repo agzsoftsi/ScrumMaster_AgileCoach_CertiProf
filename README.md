@@ -26,6 +26,11 @@ Overlap different stages of development, rather than performing one after the ot
 - Fundamentals of Agile Coach Professional Certificate (ACPC)
 
 
+# Resources
+
+> - Posters for Explanation about Agile methodologies [https://dandypeople.com/blog/category/poster/]
+
+
 ## :sagittarius: Author
 
 > :man: Carlos Andres Garcia Morales
